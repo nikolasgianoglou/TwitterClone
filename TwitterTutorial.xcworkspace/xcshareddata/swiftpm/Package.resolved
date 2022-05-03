@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UIViewCanvas",
+        "repositoryURL": "https://github.com/outrowender/UIViewCanvas",
+        "state": {
+          "branch": null,
+          "revision": "4fbfb9148c2341f490a2be56d94594022e099deb",
+          "version": "0.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
